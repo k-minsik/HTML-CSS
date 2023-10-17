@@ -1,0 +1,10 @@
+.image {
+    width: 280px;
+    height: 400px;
+
+    /* object-fit: contain; */
+    object-fit: cover;
+    /* object-fit: none; */
+    /* object-fit: scale-down; */
+    object-position: right;
+}
